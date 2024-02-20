@@ -1,10 +1,10 @@
-let distMouse = 15;
+let distMouse = 20;
 let cols; let rows; let size = 10; let offset = 4;
 let blocks = [];
 
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(300, 300);
   rectMode(CENTER);
   angleMode(DEGREES);
   cols = width/size;
