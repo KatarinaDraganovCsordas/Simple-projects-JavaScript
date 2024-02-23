@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(220, 220, 220);
 
   let x = map(mouseX, 0, width, 0, 360);
 
