@@ -1,7 +1,18 @@
-html, body {
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   margin: 0;
-  padding: 0;
+  background-color: rgb(250, 150, 170);
 }
-canvas {
-  display: block;
+
+.cim {
+  background: linear-gradient(to right, rgb(208, 184, 198), white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px;
+  text-align: center;
+  font-weight: bold;
 }
