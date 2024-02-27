@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(220,220,220);
+}
+
+.cim {
+  background: linear-gradient(to right, blue, red, yellow, white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
