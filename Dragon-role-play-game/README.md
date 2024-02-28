@@ -32,4 +32,15 @@ Upgrade your weaponry to increase your chances of victory. The available weapons
 * Claw Hammer (Power: 50)
 * Sword (Power: 100)
 
+## Monsters
+Face various monsters, each with its own level and health:
 
+* Slime (Level: 2, Health: 15)
+* Fanged Beast (Level: 8, Health: 60)
+* Dragon (Level: 20, Health: 300)
+
+## Easter Egg
+Discover a secret game within the game! Find the easter egg location and pick a number to see if you win gold or lose health.
+
+## Contributing
+If you'd like to contribute to the project, feel free to fork the repository, make improvements, and submit a pull request.
