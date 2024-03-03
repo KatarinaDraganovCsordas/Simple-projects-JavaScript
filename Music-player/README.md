@@ -4,6 +4,7 @@ It allows users to play, pause, skip to the next or previous track,
 shuffle the playlist, and delete songs from the playlist. 
 The app utilizes the HTML5 <audio> element for playing audio.
 
+
 ## Features
 * Play/Pause: Click the play button to start playing the current song,
   or pause it by clicking the pause button.
@@ -21,3 +22,14 @@ The app utilizes the HTML5 <audio> element for playing audio.
 ## Playlist
 The app comes with a predefined playlist of songs by Quincy Larson. 
 Each song has a title, artist, duration, and a link to the audio file.
+
+
+## How to Use
+* Click on a song in the playlist to play it.
+* Use the play, pause, next, and previous buttons to control playback.
+* Click the shuffle button to shuffle the playlist.
+* Click the delete button next to a song to remove it from the playlist.
+
+
+## Contributing
+If you'd like to contribute to the development of this music player app, feel free to fork the repository and submit pull requests.
