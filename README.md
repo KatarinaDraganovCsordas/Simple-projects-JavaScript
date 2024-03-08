@@ -4,4 +4,9 @@ Welcome to my Simple-projects-JavaScript repository! This repository contains th
 
 It also contains some CSS, HTML and  p5.js.
 
+## My projects
+I independently completed these projects for my certification:
+
+* Roman Numeral Converter
+
 :)
