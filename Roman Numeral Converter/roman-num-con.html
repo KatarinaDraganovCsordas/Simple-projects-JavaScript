@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roman Numeral Converter</title>
+    <link rel="stylesheet" href="./styles/Roman-num-con.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="con1">
+        <h1>Roman Numeral Converter</h1>
+      </div>
+
+      <div class="con2">
+        <label for="numberInput">Enter a number:</label>
+      </div>
+
+      <div class="con3">
+        <input type="number" id="numberInput" placeholder="Enter a number">
+      </div>
+
+      <div class="btn">
+        <button onclick="openPopup(), convertAndDisplay()">Convert</button>
+      </div>
+
+      <div class="btn2 popup" id="popup">
+        <p id="result"></p>
+        <button type="button" onclick="closePopup()">Convert next</button>
+      </div>
+
+    </div>
+
+    <script src="scripts/Roman-num-con.js"></script>
+  </body>
+</html>
