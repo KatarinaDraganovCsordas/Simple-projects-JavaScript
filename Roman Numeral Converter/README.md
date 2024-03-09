@@ -4,12 +4,12 @@ The converter translates numeric input into Roman numerals using JavaScript. I c
 showcasing my understanding of algorithmic problem-solving and web development.
 
 ## Features
-* Roman Numeral Conversion
+* Roman Numeral Conversion:
 The core functionality of this project lies in the 'convertToRoman' function. 
 It employs a series of conditional statements to convert a given numeric input into its Roman numeral equivalent. 
 The conversion is achieved by iteratively subtracting predefined values from the input and appending the corresponding symbols.
 
-* Popup Feature
+* Popup Feature:
 A notable feature of this project is the popup functionality. By invoking the 'openPopup' and 'closePopup' functions,
 the user can trigger the display and concealment of a popup element, respectively.
 This interactive element enhances the user experience, providing a dynamic aspect to the application.
