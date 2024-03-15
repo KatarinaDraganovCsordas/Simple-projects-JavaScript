@@ -16,19 +16,19 @@ Users can add, edit, and delete tasks with ease using this intuitive interface.
 
 ## Usage:
 
-* Adding a Task:
--Click the "Add Task" button to open the task form.
--Fill in the required fields (title, date, description).
--Click the "Add Task" button to save the task.
+1. Adding a Task:
+* Click the "Add Task" button to open the task form.
+*  Fill in the required fields (title, date, description).
+* Click the "Add Task" button to save the task.
 
-* Editing a Task:
--Click the "Edit" button next to the task you want to edit.
--Modify the task details in the input fields.
--Click the "Update Task" button to save the changes.
+2. Editing a Task:
+* Click the "Edit" button next to the task you want to edit.
+* Modify the task details in the input fields.
+* Click the "Update Task" button to save the changes.
 
-* Deleting a Task:
--Click the "Delete" button next to the task you want to remove.
--Closing the Task Form:
+3. Deleting a Task:
+* Click the "Delete" button next to the task you want to remove.
+* Closing the Task Form:
 
 You can close the task form by clicking the "Close" button. If there are unsaved changes, a confirmation dialog will appear to prevent accidental data loss.
 
