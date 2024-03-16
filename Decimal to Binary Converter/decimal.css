@@ -1,0 +1,92 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --light-grey: #d0e5f9;
+  --dark-blue: #3c0133;
+  --orange: #75b7f6;
+}
+
+body {
+  background-color: var(--dark-blue);
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  color: var(--light-grey);
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.7rem;
+  margin: 20px 0;
+  text-shadow: 2px 4px 2px #0c457b;
+}
+
+.input-container {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.convert-btn {
+  background-color: var(--orange);
+  cursor: pointer;
+  border: none;
+  padding: 7px 10px 7px 10px;
+  font-size: 16px;
+  border-radius: 50px;
+}
+
+.number-input {
+  height: 30px;
+  background-color: #472f44;
+  border: 1px solid #75b7f6;
+  color: #d0e5f9;
+}
+
+#result {
+  margin: 10px 0;
+  min-width: 200px;
+  width: fit-content;
+  min-height: 80px;
+  word-break: break-word;
+  padding: 15px;
+  border: 3px solid var(--orange);
+  border-radius: 50px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+#animation-container {
+  margin: auto;
+  max-width: 300px;
+}
+
+.animation-frame {
+  margin: 250px auto 0;
+  padding: 15px 10px;
+  border: 5px solid var(--orange);
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 500px) {
+  .input-container {
+    flex-direction: row;
+  }
+
+  #result {
+    max-width: 460px;
+  }
+}
