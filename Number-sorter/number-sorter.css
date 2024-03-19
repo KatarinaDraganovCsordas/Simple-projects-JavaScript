@@ -83,7 +83,6 @@ button {
   width: 100%;
 }
 
-
 .output-container {
   width: 95%;
   min-height: 55px;
@@ -105,7 +104,6 @@ button {
 .output-value {
   font-size: 2em;
 }
-
 
 @media (min-width: 550px) {
   form,
