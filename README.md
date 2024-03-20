@@ -8,5 +8,6 @@ It also contains some CSS, HTML and  p5.js.
 I independently completed these projects for my certification:
 
 * Roman Numeral Converter
+* US phone number validator
 
 :)
