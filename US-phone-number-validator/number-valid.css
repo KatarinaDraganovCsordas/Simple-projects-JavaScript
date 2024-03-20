@@ -1,0 +1,97 @@
+body {
+  background: linear-gradient(90deg,hotpink, rgb(250, 213, 219), hotpink);
+  display: flex;
+  justify-content: center;
+}
+
+.mob {
+  margin-top: 150px;
+  width: 250px;
+  height: 400px ;
+  background-color: rgb(255, 105, 180);
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  box-shadow: rgba(249, 123, 230, 0.09) 0px 2px 1px,
+   rgba(240, 49, 179, 0.112) 0px 4px 2px, 
+   rgba(243, 49, 201, 0.045) 0px 8px 4px,
+    rgba(137, 47, 113, 0.47) 0px 16px 8px,
+     rgba(241, 105, 205, 0.213) 0px 32px 16px;
+}
+
+.mob-belso {
+  background-color: pink;
+  height: 320px;
+  width: 210px;
+  margin-top: 30px;
+  border-radius: 25px;
+  box-shadow: rgba(248, 32, 194, 0.25) 0px 30px 60px -12px inset,
+   rgba(237, 46, 193, 0.3) 0px 18px 36px -18px inset;
+}
+
+.input {
+  text-align: center;
+  margin-top: 40px;
+}
+
+input {
+  border: 0;
+  outline: 0;
+  background: rgb(250, 213, 219);
+  height: 40px;
+  width: 190px;
+  color: rgb(147, 33, 90);
+  border-radius: 6px;
+  font-size: 18px;
+}
+
+.btn {
+  margin-left: 30px;
+}
+
+button {
+  background-color: hotpink;
+  border: 0;
+  outline: 0;
+  border-radius: 8px;
+  color: rgb(250, 213, 219);
+  font-size: 18px;
+  padding: 3px 6px 3px 6px;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: rgb(250, 31, 141);
+  color: pink;
+}
+
+#check-btn {
+  margin-right: 20px;
+}
+
+#results-div {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 22px;
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(147, 33, 90);
+}
+
+.gomb1 {
+  width: 40px;
+  height: 4px;
+  background-color: rgba(176, 32, 104, 0.657);
+  position: absolute;
+  margin-top: 165px;
+  border-radius: 5px;
+}
+
+.gomb {
+  width: 30px;
+  height: 30px;
+  background-color: rgba(176, 32, 104, 0.657);
+  border-radius: 50%;
+  margin-top: 510px;
+  margin-left: 10px;
+  position: absolute;
+}
