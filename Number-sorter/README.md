@@ -15,3 +15,6 @@ and Insertion Sort. The sorted values are then displayed on the user interface.
 * HTML
 * CSS
 * JavaScript
+
+## Contribution
+Contributions to this project are welcome. If you have ideas for improvements or additional features, feel free to fork the repository, make your changes, and submit a pull request.
