@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: rgb(50, 27, 46);
+  text-align: center;
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+  background-color: rgb(120, 91, 115);
+  border: 2px solid white;
+  color: white;
+}
+
+input {
+  background-color: rgb(50, 27, 46);
+  color: white;
+  border: 2px solid rgb(120, 91, 115);
+  outline: none;
+}
+
+.bold {
+  font-weight: bold;
+}
