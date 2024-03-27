@@ -21,5 +21,5 @@ mean, median, mode, range, variance, and standard deviation of a given set of nu
 * The functions getMean, getMedian, getMode, getRange, getVariance, and getStandardDeviation are implemented to compute the respective statistical measures.
 * The calculate function is responsible for extracting input data, performing calculations, and updating the HTML with the results.
 
-
-  
+## Contributions
+Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
