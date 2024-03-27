@@ -15,3 +15,11 @@ mean, median, mode, range, variance, and standard deviation of a given set of nu
 1. Input numerical data into the designated input field separated by commas.
 2. Click the calculate button to compute the statistics.
 3. The results will be displayed in the respective output fields.
+
+## Code Structure
+* The statistical calculations are performed in JavaScript.
+* The functions getMean, getMedian, getMode, getRange, getVariance, and getStandardDeviation are implemented to compute the respective statistical measures.
+* The calculate function is responsible for extracting input data, performing calculations, and updating the HTML with the results.
+
+
+  
