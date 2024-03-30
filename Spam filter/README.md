@@ -7,3 +7,6 @@ When a user inputs a message into the designated input field and clicks the chec
 The spam filter utilizes regular expressions to identify specific patterns commonly found in spam messages. 
 These patterns include phrases such as "please help," mentions of large sums of money, offers of free items, 
 references to stock alerts, and salutations like "dear friend." The program checks whether the user-provided message matches any of these patterns.
+
+## Contributing
+Contributions to improve the spam filter's effectiveness or add new features are welcome. If you have any suggestions, feel free to open an issue or submit a pull request.
