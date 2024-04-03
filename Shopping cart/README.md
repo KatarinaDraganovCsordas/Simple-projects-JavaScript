@@ -11,3 +11,13 @@ clearing the cart and calculating totals including taxes.
 5. Users can click the "Add to Cart" button to add items to the shopping cart.
 6. The shopping cart can be displayed or hidden by clicking the "Show/Hide Cart" button.
 7. The "Clear Cart" button clears all items from the shopping cart.
+
+## Features
+* Adding Items: Users can add items to the shopping cart by clicking the "Add to Cart" button next to each product.
+* Display Cart: The shopping cart can be displayed or hidden by clicking the "Show/Hide Cart" button.
+* Clear Cart: Users can clear all items from the shopping cart by clicking the "Clear Cart" button.
+* Total Calculation: The code calculates the subtotal, taxes, and total amount of the items in the shopping cart.
+* Dynamic Updates: When items are added or removed from the cart, the total count and amounts are dynamically updated.
+
+
+Feel free to reach out with any questions, feedback, or suggestions!
