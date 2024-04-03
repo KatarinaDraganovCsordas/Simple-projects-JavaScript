@@ -19,5 +19,5 @@ clearing the cart and calculating totals including taxes.
 * Total Calculation: The code calculates the subtotal, taxes, and total amount of the items in the shopping cart.
 * Dynamic Updates: When items are added or removed from the cart, the total count and amounts are dynamically updated.
 
-
+## Feedback
 Feel free to reach out with any questions, feedback, or suggestions!
