@@ -34,3 +34,40 @@ body {
   border: 1px solid #333;
   border-radius: 7px;
 }
+
+.btn:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}
+
+.btn-container {
+  text-align: center;
+}
+
+.checkpoint-screen {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px;
+  display: none;
+}
+
+#canvas {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .start-screen {
+    width: 60%;
+    max-width: 700px;
+  }
+
+  .checkpoint-screen {
+    max-width: 300px;
+  }
+}
