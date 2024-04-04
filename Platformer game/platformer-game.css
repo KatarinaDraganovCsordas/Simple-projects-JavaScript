@@ -1,0 +1,18 @@
+body {
+  background-color: #333;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.start-screen {
+  background-color: lightseagreen;
+  border-radius: 30px;
+  margin: 180px auto;
+  border: 3px dashed black;
+}
+
+.main-title {
+  text-align: center;
+  padding-top: 30px;
+  text-shadow: 2px 2px 2px rgb(182, 182, 243);
+  font-size: 40px;
+}
