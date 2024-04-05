@@ -64,3 +64,24 @@ class Platform {
     ctx.fillRect(this.position.x, this.position.y, this.width, this.height);
   }
 }
+
+class CheckPoint {
+  constructor(x, y) {
+    this.position = {
+      x,
+      y,
+    };
+    this.width = 40;
+    this.height = 70;
+  };
+
+  draw() {
+    ctx.fillStyle = "#f1be32";
+    ctx.fillRect(this.position.x, this.position.y, this.width, this.height);
+  }
+  claim() {
+    this.width = 0;
+    this.height = 0;
+    this.position.y = Infinity;
+  }
+};
