@@ -48,3 +48,19 @@ class Player {
     }
   }
 }
+
+
+class Platform {
+  constructor(x, y) {
+    this.position = {
+      x,
+      y,
+    };
+    this.width = 200;
+    this.height = 40;
+  }
+  draw() {
+    ctx.fillStyle = "#acd157";
+    ctx.fillRect(this.position.x, this.position.y, this.width, this.height);
+  }
+}
