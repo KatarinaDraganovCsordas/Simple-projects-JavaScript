@@ -112,3 +112,21 @@ const checkpointPositions = [
   { x: 2900, y: 330 },
   { x: 4800, y: 80 },
 ];
+
+const checkpoints = checkpointPositions.map(
+  checkpoint => new CheckPoint(checkpoint.x, checkpoint.y)
+);
+
+const animate = () => {
+  requestAnimationFrame(animate);
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  platforms.forEach((platform) => {
+    platform.draw();
+  });
+
+  checkpoints.forEach(checkpoint => {
+    checkpoint.draw();
+  });
+
+  player.update();
