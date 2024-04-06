@@ -85,3 +85,30 @@ class CheckPoint {
     this.position.y = Infinity;
   }
 };
+
+const player = new Player();
+
+const platformPositions = [
+  { x: 500, y: 450 },
+  { x: 700, y: 400 },
+  { x: 850, y: 350 },
+  { x: 900, y: 350 },
+  { x: 1050, y: 150 },
+  { x: 2500, y: 450 },
+  { x: 2900, y: 400 },
+  { x: 3150, y: 350 },
+  { x: 3900, y: 450 },
+  { x: 4200, y: 400 },
+  { x: 4400, y: 200 },
+  { x: 4700, y: 150 }
+];
+
+const platforms = platformPositions.map(
+  (platform) => new Platform(platform.x, platform.y)
+);
+
+const checkpointPositions = [
+  { x: 1170, y: 80 },
+  { x: 2900, y: 330 },
+  { x: 4800, y: 80 },
+];
