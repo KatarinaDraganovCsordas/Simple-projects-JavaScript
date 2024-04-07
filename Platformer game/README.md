@@ -13,3 +13,12 @@ The game features a player character navigating through platforms to reach check
 * Platforms: Navigate across platforms to progress through the game.
 * Checkpoints: Reach checkpoints to save progress and continue from that point.
 * Collision Detection: Prevent the player character from falling through platforms.
+
+## Code Structure
+The game code is structured as follows:
+1. platformer-game.html: HTML file containing the game canvas and start button.
+2. platformer-game.css: CSS file for styling the game elements.
+3. platformer-game.js: JavaScript file containing the game logic and functionality.
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
