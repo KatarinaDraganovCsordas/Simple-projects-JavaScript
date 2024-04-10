@@ -41,7 +41,6 @@ const updateRadioOption = (optionNode, score) => {
   scoreSpans[optionNode].textContent = `, score = ${score}`;
 };
 
-
 const updateScore = (selectedValue, achieved) => {
   totalScore += parseInt(selectedValue);
   totalScoreText.textContent = totalScore;
@@ -121,7 +120,6 @@ const checkForStraights = (arr) => {
   updateRadioOption(5, 0);
 };
 
-
 const resetRadioOption = () => {
   scoreInputs.forEach((input) => {
     input.disabled = true;
@@ -191,7 +189,7 @@ keepScoreBtn.addEventListener("click", () => {
     }
   }
 
-                              if (selectedValue) {
+  if (selectedValue) {
     rolls = 0;
     round++;
     updateStats();
