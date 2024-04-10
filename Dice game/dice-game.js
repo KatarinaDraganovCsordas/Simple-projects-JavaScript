@@ -166,3 +166,15 @@ rollDiceBtn.addEventListener("click", () => {
 
   }
 });
+
+rulesBtn.addEventListener("click", () => {
+  isModalShowing = !isModalShowing;
+
+  if (isModalShowing) {
+    rulesBtn.textContent = "Hide Rules";
+    rulesContainer.style.display = "block";
+  } else {
+    rulesBtn.textContent = "Show Rules";
+    rulesContainer.style.display = "none";
+  }
+});
