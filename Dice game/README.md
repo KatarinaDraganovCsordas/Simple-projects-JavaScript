@@ -17,3 +17,11 @@ the outcome of their rolls.
 4. After rolling, select a scoring option based on the outcome of your roll.
 5. Click the "Keep Score" button to lock in your score for the round.
 6. Continue playing until you complete six rounds. The game will automatically end, displaying your total score.
+
+## Usage
+* rollDiceBtn: Click to roll the dice.
+* keepScoreBtn: Click to keep score for the current round.
+* rulesBtn: Click to show or hide the game rules.
+
+## Contributing
+Contributions are welcome! If you have any ideas for improving the game or find any issues, feel free to open an issue or create a pull request.
