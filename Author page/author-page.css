@@ -20,3 +20,23 @@ body {
   color: var(--light-grey);
   margin: 20px 0;
 }
+
+#author-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.user-card {
+  border-radius: 15px;
+  width: 300px;
+  height: 350px;
+  background-color: var(--light-grey);
+  margin: 20px;
+}
+
+.user-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
