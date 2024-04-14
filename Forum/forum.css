@@ -29,3 +29,30 @@ nav {
   background-color: var(--dark-navy);
   padding: 10px 0;
 }
+
+
+.fcc-logo {
+  width: 210px;
+  display: block;
+  margin: auto;
+}
+
+.title {
+  margin: 25px 0;
+  text-align: center;
+  color: var(--light-grey);
+}
+
+.table-wrapper {
+  padding: 0 25px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  color: var(--dark-grey);
+  margin: auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+  overflow-x: scroll;
+}
