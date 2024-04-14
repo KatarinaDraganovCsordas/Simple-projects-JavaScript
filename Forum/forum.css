@@ -30,7 +30,6 @@ nav {
   padding: 10px 0;
 }
 
-
 .fcc-logo {
   width: 210px;
   display: block;
@@ -56,7 +55,6 @@ table {
   border-collapse: collapse;
   overflow-x: scroll;
 }
-
 
 #topics {
   text-align: start;
@@ -84,7 +82,6 @@ td {
   text-decoration: none;
 }
 
-
 .category {
   padding: 3px;
   color: var(--black);
@@ -101,4 +98,58 @@ td {
 .feedback,
 .html-css {
   background-color: var(--light-blue);
+}
+
+.support {
+  background-color: var(--light-orange);
+}
+
+.general {
+  background-color: var(--light-green);
+}
+
+.javascript {
+  background-color: var(--golden-yellow);
+}
+
+.backend {
+  background-color: var(--gold);
+}
+
+.python {
+  background-color: var(--green);
+}
+
+.motivation {
+  background-color: var(--peach);
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.avatar-container img {
+  width: 30px;
+  height: 30px;
+}
+
+@media (max-width: 750px) {
+  .table-wrapper {
+    padding: 0 15px;
+  }
+
+  table {
+    width: 700px;
+  }
+
+  th {
+    font-size: 1.2rem;
+  }
+
+  .post-title {
+    font-size: 1.1rem;
+  }
 }
