@@ -1,4 +1,4 @@
-# Forum 
+# Forum Leaderboard
 This project fetches the latest posts from the freeCodeCamp forum and displays them dynamically on a webpage. 
 It utilizes the FreeCodeCamp forum API to retrieve the necessary data.
 
@@ -13,3 +13,6 @@ To use this project:
 1. Ensure that you have an internet connection. :)
 2. Open the provided HTML file in a web browser.
 3. The latest posts from the FreeCodeCamp forum will be fetched and displayed on the webpage automatically.
+
+## Contribution
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
