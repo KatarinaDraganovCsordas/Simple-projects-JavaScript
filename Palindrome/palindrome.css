@@ -25,3 +25,26 @@ body {
   margin-bottom: 40px;
   border-radius: 3px;
 }
+
+.try {
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.781);
+  width: 100px;
+  margin: auto;
+  padding: 5px;
+  color: rgb(247, 243, 235);
+  border-radius: 5px;
+}
+
+.input-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
