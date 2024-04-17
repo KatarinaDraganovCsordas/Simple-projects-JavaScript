@@ -1,0 +1,27 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: bisque;
+}
+
+.question {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(127, 33, 33);
+}
+
+.question span {
+  color: rgb(241, 9, 172);
+  font-weight: 500;
+}
+
+.text {
+  width: 500px;
+  text-align: justify;
+  margin: auto;
+  color: rgb(127, 33, 33);
+  font-size: 18px;
+  background-color: rgba(241, 9, 171, 0.161);
+  padding: 5px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+}
