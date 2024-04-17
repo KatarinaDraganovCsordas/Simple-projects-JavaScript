@@ -9,5 +9,6 @@ I independently completed these projects for my certification:
 
 * Roman Numeral Converter
 * US phone number validator
+* Palindrome
 
 :)
