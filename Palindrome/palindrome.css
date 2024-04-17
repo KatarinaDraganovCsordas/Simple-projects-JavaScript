@@ -48,3 +48,31 @@ input {
   border: 1px solid grey;
   border-radius: 3px;
 }
+
+.btn-div {
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  border-radius: 50%;
+  padding: 10px 20px;
+  border: 0;
+  background: linear-gradient(rgba(241, 9, 171, 0.161), rgba(241, 9, 171, 0.669));
+  color: rgb(115, 5, 86);
+}
+
+button:hover {
+  background: linear-gradient(rgb(183, 179, 179), rgb(83, 83, 83));
+  color: whitesmoke;
+}
+
+#result {
+  width: 300px;
+  color: rgb(127, 33, 33);
+  font-size: 20px;
+  border-radius: 3px;
+  text-align: center;
+  margin: 30px auto;
+  padding: 7px;
+}
