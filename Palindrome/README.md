@@ -23,3 +23,5 @@ The JavaScript code in palindrome.js performs the following steps:
 ## Notes
 This code was completed from scratch by myself without external assistance.
 
+## Contributions
+Your contributions to the codebase are greatly appreciated.
