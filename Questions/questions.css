@@ -1,0 +1,22 @@
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: beige;
+  color: rgb(53, 52, 52);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+ul {list-style-type: none;}
+
+a {text-decoration: none;}
+
+p {
+  margin-bottom: 1.25rem;
+  color: grey;
+}
