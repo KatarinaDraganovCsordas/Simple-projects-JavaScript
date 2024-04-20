@@ -14,3 +14,6 @@ This project is a simple web application that fetches author data from a JSON fi
    
 ## Credits
 This project was created as part of the freeCodeCamp curriculum. The original data and concept were provided by freeCodeCamp.
+
+## Contribution
+Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
