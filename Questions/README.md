@@ -13,6 +13,8 @@ The firs solution selects all question elements but individually attaches event 
 * Ensure that your HTML structure matches the provided template, with each question having a button with the class question-btn and an answer container with the class question-text.
 * Customize the questions and answers by modifying the HTML content within each <article class="question">.
 
+## Contribution
+Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
 # Solution 2
 ## Description
 The second solution uses event delegation to handle click events on the question buttons. It selects all question buttons using document.querySelectorAll(".question-btn"), then attaches a click event listener to each button. When a button is clicked, it identifies its parent question element and toggles the class show-text on it, which controls the visibility of the answer.
