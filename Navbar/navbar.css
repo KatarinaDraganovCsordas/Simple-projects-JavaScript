@@ -69,3 +69,13 @@ nav {
   color: whitesmoke;
   padding-left: 3px;
 }
+
+.social-icons {display: none;}
+
+.links {
+  height: 0;
+  overflow: hidden;
+  transition: all 0.3s linear;
+}
+
+.show-links {height: 10rem;}
