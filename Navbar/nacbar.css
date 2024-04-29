@@ -1,0 +1,18 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background: rgb(240, 238, 238);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+ul {list-style-type: none;}
+
+a {text-decoration: none;}
+
+.section {padding: 5rem 0;}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
