@@ -23,3 +23,10 @@ To use this navbar in your project, follow these steps:
 4. Ensure that the Font Awesome CDN link (https://kit.fontawesome.com/0ac30c32f5.js) remains accessible for the icons to render correctly.
 5. Customize the links and social media URLs as per your project requirements.
 6. Test the navbar to ensure proper functionality and responsiveness.
+
+## Dependencies
+Font Awesome (https://fontawesome.com/): Used for the social media icons.
+Google Fonts (https://fonts.google.com/): Raleway font is used for the logo text.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
