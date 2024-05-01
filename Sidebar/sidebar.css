@@ -46,3 +46,18 @@ main {
   place-items: center;
 }
 .logo span {color: rgb(180, 7, 94);}
+
+.sidebar-toggle {
+  position: fixed;
+  top: 2rem;
+  right: 3rem;
+  font-size: 2rem;
+  background: transparent;
+  border-color: transparent;
+  color: hotpink;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  animation: bounce 2s ease-in-out infinite;
+}
+
+.sidebar-toggle:hover {color: rgb(180, 7, 94);}
