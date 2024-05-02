@@ -11,3 +11,8 @@ sizes, providing a smooth user experience for navigating a website's content.
 * Close Button: A close button inside the sidebar allows users to manually close it if needed.
 * Links: The sidebar contains links to various pages of the website, providing easy navigation.
 * Social Media Icons: Social media icons are included at the bottom of the sidebar for easy access to social profiles.
+
+## Technologies Used:
+* HTML: Used for structuring the content of the webpage.
+* CSS: Used for styling the sidebar and its components.
+* JavaScript: Used for implementing functionality such as toggling the sidebar open and closed.
