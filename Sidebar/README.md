@@ -16,3 +16,8 @@ sizes, providing a smooth user experience for navigating a website's content.
 * HTML: Used for structuring the content of the webpage.
 * CSS: Used for styling the sidebar and its components.
 * JavaScript: Used for implementing functionality such as toggling the sidebar open and closed.
+
+## File Structure:
+* side.html: Contains the HTML structure of the webpage including the sidebar, navigation links, and social media icons.
+* side.css: Contains the CSS styles for styling the sidebar and its components.
+* side.js: Contains the JavaScript code for toggling the sidebar open and closed.
