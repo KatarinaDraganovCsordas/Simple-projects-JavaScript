@@ -13,3 +13,20 @@ h2 {
   font-size: 33px;
   text-shadow: 2px 2px 2px rgb(253, 36, 224);
 }
+
+.underline {
+  width: 190px;
+  height: 2px;
+  background-color: rgb(253, 36, 224);
+  margin: auto;
+  margin-top: -15px;
+}
+
+.review {
+  background-color: rgb(248, 170, 244);
+  width: 500px;
+  margin: auto;
+  padding: 20px 0;
+  margin-top: 20px;
+  border: 4px double rgb(253, 36, 224);
+}
