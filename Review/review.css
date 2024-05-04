@@ -70,3 +70,19 @@ h2 {
   text-align: center;
   color: rgb(244, 129, 186);
 }
+
+.button-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.prev-btn, .next-btn {
+  background: transparent;
+  border: 2px solid rgb(64, 1, 33);
+  border-radius: 3px;
+  color: rgb(64, 1, 33);
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(244, 95, 170);
+  padding: 4px 10px;
+}
