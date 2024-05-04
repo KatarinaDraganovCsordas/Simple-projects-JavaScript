@@ -51,7 +51,6 @@ h2 {
     position: relative;
   }
 
-
 #author {
   text-align: center;
   font-size: 20px;
@@ -85,4 +84,23 @@ h2 {
   cursor: pointer;
   background-color: rgb(244, 95, 170);
   padding: 4px 10px;
+}
+
+.prev-btn:hover, .next-btn:hover, .random-btn button:hover {
+  background: linear-gradient(rgb(211, 15, 113), rgb(117, 2, 59));
+  color: rgb(248, 170, 244);
+}
+
+.random-btn {
+  text-align: center;
+}
+
+.random-btn button{
+  background-color: rgb(244, 95, 170);
+  color: rgb(64, 1, 33);
+  border-radius: 8px;
+  padding: 4px 10px;
+  cursor: pointer;
+  margin-top: 20px;
+  border: 2px solid rgb(64, 1, 33);
 }
