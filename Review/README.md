@@ -18,3 +18,7 @@ reviewer's name, job title, an image, and a brief comment.
 3. You'll see the review carousel interface with the first review displayed.
 4. Use the previous and next buttons to navigate through the reviews sequentially.
 5. Alternatively, click the "surprise me" button to view a random review.
+
+## Customization:
+* To add or modify reviews, you can edit the reviews array in the review.js file. Each review object in the array should include id, name, job, img, and text properties.
+* You can customize the CSS styles in the review.css file to change the appearance of the review carousel according to your preferences.
