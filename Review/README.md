@@ -11,3 +11,10 @@ reviewer's name, job title, an image, and a brief comment.
 * review.css: This file contains the CSS styles to define the layout, design, and responsiveness of the review carousel.
 * review.js: This file contains JavaScript code to handle the functionality of the review carousel, including displaying reviews, navigating between them, and selecting a random review.
 * Images: The images folder contains the images of the reviewers used in the carousel.
+
+## How to Use:
+1. Clone or download the files to your local machine.
+2. Open the review.html file in a web browser.
+3. You'll see the review carousel interface with the first review displayed.
+4. Use the previous and next buttons to navigate through the reviews sequentially.
+5. Alternatively, click the "surprise me" button to view a random review.
