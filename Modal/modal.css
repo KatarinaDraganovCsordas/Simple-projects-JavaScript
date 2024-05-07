@@ -7,6 +7,18 @@ body {
   font-size: 0.875rem;
 }
 
+.modal-btn {
+  margin-top: 2rem;
+  background: blue;
+  border-color: blue;
+  color: whitesmoke;
+}
+
+.modal-btn:hover {
+  background: transparent;
+  color: blue;
+}
+
 main {
   min-height: 100vh;
   display: grid;
