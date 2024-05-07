@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  background: rgb(48, 48, 48);
+  color: rgb(48, 48, 48);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+ul {list-style-type: none;}
+
+a {text-decoration: none;}
+
+img:not(.logo) {width: 100%;}
+
+img {display: block;}
+
+h1 {font-size: 45px; letter-spacing: 0.5rem;}
+
+h3 {font-size: 30px;}
