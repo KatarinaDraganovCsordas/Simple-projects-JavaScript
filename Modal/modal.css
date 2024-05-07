@@ -7,6 +7,28 @@ body {
   font-size: 0.875rem;
 }
 
+.btn:hover {
+  color: whitesmoke;
+  background: black;
+}
+
+.section {
+  padding: 5rem 0;
+}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+
+@media screen and (min-width: 992px) {
+  .section-center {
+    width: 95vw;
+  }
+}
+
+
 .btn {
   text-transform: uppercase;
   background: transparent;
