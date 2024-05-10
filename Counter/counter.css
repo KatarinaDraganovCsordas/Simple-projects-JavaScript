@@ -1,0 +1,18 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: whitesmoke;
+}
+
+.container {
+ text-align: center;
+ margin-top: 200px;
+}
+
+h1 {
+  margin-bottom: 35px;
+  font-size: 40px;
+  background-image: linear-gradient( rgb(138, 6, 72), rgb(255, 105, 180));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
