@@ -22,3 +22,6 @@ This is a simple web application that allows users to increment, decrement, and 
 * Event listeners are attached to the increment, decrement, and reset buttons.
 * When a button is clicked, the counter value is adjusted accordingly.
 * The color of the counter text changes based on its value.
+
+## Contribution
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
