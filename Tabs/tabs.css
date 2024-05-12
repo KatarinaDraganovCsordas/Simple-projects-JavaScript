@@ -6,6 +6,23 @@
   box-sizing: border-box;
 }
 
+
+@media screen and (min-width: 992px) {
+  .about-img {
+    margin-bottom: 0;
+  }
+
+  .about-center {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+  }
+}
+
+.content p {
+  line-height: 25px;
+  text-align: justify;
+}
 .title p {
   width: 80%;
   margin: 0 auto;
