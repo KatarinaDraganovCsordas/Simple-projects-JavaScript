@@ -1,3 +1,4 @@
+
 *,
 ::after,
 ::before {
@@ -6,37 +7,35 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: whitesmoke;
+  color: rgb(74, 74, 133);
+  font-size: 0.875rem;
+}
+
+img:not(.logo) {
+  width: 100%;
+}
+
+img {
+  display: block;
+}
+
+.section {
+  padding: 5rem 0;
+}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
 
 @media screen and (min-width: 992px) {
-  .about-img {
-    margin-bottom: 0;
+  .section-center {
+    width: 95vw;
   }
-
-  .about-center {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 2rem;
-  }
-}
-
-.content p {
-  line-height: 25px;
-  text-align: justify;
-}
-.title p {
-  width: 80%;
-  margin: 0 auto;
-  color: rgb(119, 119, 194);
-}
-
-.about-img {
-  margin-bottom: 2rem;
-}
-
-.about-img img {
-  border-radius: 0.5rem;
-  object-fit: cover;
-  height: 20rem;
 }
 
 .title {
@@ -59,33 +58,84 @@ h4 {
   font-weight: 400;
 }
 
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: whitesmoke;
-  color: rgb(74, 74, 133);
-  font-size: 0.875rem;
-}
-
-img:not(.logo) {
-  width: 100%;
-}
-
-.section {
-  padding: 5rem 0;
-}
-
-.section-center {
-  width: 90vw;
+.title p {
+  width: 80%;
   margin: 0 auto;
-  max-width: 1170px;
+  color: rgb(119, 119, 194);
+}
+
+.about-img {
+  margin-bottom: 2rem;
+}
+
+.about-img img {
+  border-radius: 0.5rem;
+  object-fit: cover;
+  height: 20rem;
 }
 
 @media screen and (min-width: 992px) {
-  .section-center {
-    width: 95vw;
+  .about-img {
+    margin-bottom: 0;
+  }
+
+  .about-center {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
   }
 }
 
-img {
+.content p {
+  line-height: 25px;
+  text-align: justify;
+}
+
+.about {
+  background: white;
+  border-radius: 0.5rem;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.btn-container {
+  border-radius: 0.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.tab-btn {
+  padding: 1rem 0;
+  border: none;
+  font-size: 1rem;
+  display: block;
+  background: rgb(181, 181, 239);
+  cursor: pointer;
+  transition: all 0.3s linear;
+  letter-spacing: 8px;
+  border-radius: 0.5rem;
+  margin-left: 2px;
+}
+
+.tab-btn:hover:not(.active) {
+  background: whitesmoke;
+  color: rgb(51, 51, 131);
+}
+
+.about-content {
+  border-radius: 0.5rem;
+  padding: 2rem 1.5rem;
+}
+
+/* hide content */
+.content {
+  display: none;
+}
+
+.tab-btn.active {
+  background: white;
+}
+
+.content.active {
   display: block;
 }
