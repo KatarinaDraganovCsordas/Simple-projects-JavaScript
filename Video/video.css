@@ -1,0 +1,16 @@
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 15px;
+  font-weight: 100;
+  color: rgb(132, 132, 240);
+}
