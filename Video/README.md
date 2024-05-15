@@ -20,3 +20,5 @@ The preloader ensures smooth loading of the video content, and the button allows
 * Styling: Customize the appearance of the webpage by modifying the CSS styles in the video.css file.
 * Functionality: Extend the functionality by adding more features, such as additional buttons for volume control, fullscreen mode, or subtitles.
 
+## Contribution
+Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
