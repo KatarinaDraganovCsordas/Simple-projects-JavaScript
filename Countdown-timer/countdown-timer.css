@@ -1,0 +1,20 @@
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: rgb(240, 248, 247);
+  color: grey;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+img:not(.logo) {
+  width: 100%;
+}
+img {
+  display: block;
+}
