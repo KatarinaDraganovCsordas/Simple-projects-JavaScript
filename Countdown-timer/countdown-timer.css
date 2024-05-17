@@ -18,3 +18,22 @@ img:not(.logo) {
 img {
   display: block;
 }
+
+.section-center {
+  width: 90vw;
+  margin: 5rem auto;
+  max-width: 1170px;
+}
+
+.gift-img {
+  margin-bottom: 2rem;
+}
+
+.gift-info h3 {
+  text-transform: uppercase;
+  color: rgb(86, 86, 219);
+  font-size: 2.5rem;
+  font-weight: 100;
+  letter-spacing: 7px;
+  word-spacing: 10px;
+}
