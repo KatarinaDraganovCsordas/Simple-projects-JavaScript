@@ -5,12 +5,9 @@ When the countdown reaches zero, it displays an expiration message.
 
 
 ## File structure
-countdown-timer/
-├── countdown-timer.html
-├── styles/
-│   └── countdown-timer.css
-└── scripts/
-    └── countdown-timer.js
+* countdown-timer.html
+* countdown-timer.css
+* countdown-timer.js
 
 ## Customization
 To customize the countdown timer for your own event:
@@ -21,3 +18,6 @@ Change the parameters of the Date object to your desired future date and time.
 
 2. Update the giveaway text in index.html:
 <h3>OLD FURNITURE GIVEAWAY</h3>
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
