@@ -11,3 +11,18 @@ body {
   border-radius: 15px;
   box-shadow: 2px 2px 3px #9b0887;
 }
+
+h4 {
+  font-size: 25px;
+  background-image: linear-gradient(90deg, #2f02fa, #f506c1, #ff0000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding-left: 20px;
+}
+
+li {
+  list-style-type: none;
+  margin-top: 6px;
+  padding-right: 20px;
+}
