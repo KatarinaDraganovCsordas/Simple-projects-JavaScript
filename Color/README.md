@@ -23,6 +23,6 @@ webpage by clicking a button. There are two modes available:
 
 ## Usage
 * Simple Mode
-  1. Open color.html in your web browser.
-  2. Click the "CLICK ME" button to change the background color to a randomly selected color from a predefined set.
-  3. The background color and its corresponding name will be displayed.
+1. Open color.html in your web browser.
+2. Click the "CLICK ME" button to change the background color to a randomly selected color from a predefined set.
+3. The background color and its corresponding name will be displayed.
