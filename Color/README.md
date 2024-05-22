@@ -26,3 +26,11 @@ webpage by clicking a button. There are two modes available:
 1. Open color.html in your web browser.
 2. Click the "CLICK ME" button to change the background color to a randomly selected color from a predefined set.
 3. The background color and its corresponding name will be displayed.
+
+* Hex Mode
+1. Open color-hex.html in your web browser.
+2. Click the "CLICK ME" button to change the background color to a randomly generated hex color code.
+3. The background color and its corresponding hex code will be displayed.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
