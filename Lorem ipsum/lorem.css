@@ -1,4 +1,21 @@
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: rgb(244, 207, 238);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 100;
+  letter-spacing: 9px;
+}
 
 p {
   margin-bottom: 20px;
@@ -33,9 +50,7 @@ p {
   text-align: center;
 }
 
-h3 {
-  color: rgb(124, 9, 67);
-}
+h3 {color: rgb(124, 9, 67);}
 
 .lorem-form {
   text-transform: capitalize;
@@ -62,6 +77,3 @@ input {
   margin: 0 0.5rem;
   font-size: 1.25rem;
 }
-
-
-
