@@ -2,3 +2,9 @@
 
 ## Overview
 This project is a simple Lorem Ipsum generator that creates random placeholder text for use in web development, design, and content creation. The application allows users to specify the number of paragraphs they need, generating text from a pre-defined array of unique paragraphs.
+
+## Features
+* User input to specify the number of paragraphs to generate
+* Random selection of paragraphs when no or invalid input is provided
+* Simple and intuitive interface
+* Custom placeholder text for a variety of creative uses
