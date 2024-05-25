@@ -16,3 +16,6 @@ This project is a simple Lorem Ipsum generator that creates random placeholder t
 * If you enter a number outside this range or no number at all, a random paragraph will be generated.
 3. Click the "GENERATE" button to display the text.
 4. The generated text will appear below the input form.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
