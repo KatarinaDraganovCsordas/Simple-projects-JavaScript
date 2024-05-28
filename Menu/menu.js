@@ -91,8 +91,12 @@ filterBtn.forEach(function(btn) {
       }
     });
 
-    
+    if(category === 'all') {
+      displayMenuItems(menu)
+    } 
+    else {
+      displayMenuItems(menuCategory)
+    }
 
   });
 });
-
