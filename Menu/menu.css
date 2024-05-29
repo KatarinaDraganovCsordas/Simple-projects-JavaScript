@@ -14,6 +14,24 @@ body {
   font-family: "Quicksand", sans-serif;
 }
 
+.title h2 {
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.underline {
+  width: 10rem;
+  height: 0.25rem;
+  background: hotpink;
+  margin: 2px auto 30px;
+}
+
+.btn-container {
+  margin-bottom: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
 img:not(.logo) {
   width: 100%;
 }
