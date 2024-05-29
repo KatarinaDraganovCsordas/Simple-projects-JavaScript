@@ -18,6 +18,24 @@ img:not(.logo) {
   width: 100%;
 }
 
+.btn:hover {
+  color: white;
+  background: #222;
+}
+
+/* section */
+.section {
+  padding: 5rem 0;
+}
+
+.menu {
+  padding: 5rem 0;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
 
 p {
   margin-bottom: 1.25rem;
