@@ -6,6 +6,23 @@
   box-sizing: border-box;
 }
 
+.filter-btn {
+  background: transparent;
+  border-color: hotpink;
+  font-size: 1rem;
+  margin: 0 0.5rem;
+  letter-spacing: 1px;
+  border-radius: 0.5rem;
+  padding: 0.375rem 0.75rem;
+  color: hotpink;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.filter-btn:hover {
+  background: hotpink;
+  color: white;
+}
 body {
   background: pink;
   color: rgb(131, 7, 69);
