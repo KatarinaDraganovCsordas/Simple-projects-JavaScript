@@ -6,6 +6,25 @@
   box-sizing: border-box;
 }
 
+.menu-item {
+  display: grid;
+  gap: 1rem 2rem;
+  max-width: 25rem;
+}
+
+.photo {
+  object-fit: cover;
+  height: 200px;
+  border: 0.25rem solid hotpink;
+  border-radius: 0.5rem;
+}
+
+.item-info header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.5px dotted hotpink;
+}
+
 .filter-btn {
   background: transparent;
   border-color: hotpink;
