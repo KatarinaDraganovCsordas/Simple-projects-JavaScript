@@ -34,7 +34,7 @@ title: "buttermilk pancakes",
 category: "breakfast",
 price: 15.99,
 img: "./img/item-2.jpeg",
-desc: `Descripion of the item`},
+desc: 'Descripion of the item'},
 
 // Add new items here
 ];
@@ -48,3 +48,6 @@ Edit the menu.css file in the styles directory to customize the look and feel of
 Modify the <link> tag in the <head> section of index.html to include different fonts from Google Fonts.
 * Font Awesome:
 Update the <script> tag in the <head> section to include a different version of Font Awesome if needed.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
