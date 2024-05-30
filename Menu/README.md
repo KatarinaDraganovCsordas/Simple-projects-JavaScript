@@ -17,3 +17,9 @@ dynamically displays the items based on the selected category.
 * JavaScript
 * Google Fonts
 * Font Awesome
+
+## Usage
+1. Open the Menu Page:
+* Open menu.html in your preferred web browser.
+2. Filter Menu Items:
+* Click on the filter buttons (All, Breakfast, Lunch, Shakes) to view menu items of the selected category.
