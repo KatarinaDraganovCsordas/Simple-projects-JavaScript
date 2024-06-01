@@ -20,6 +20,29 @@
   margin-top: 10%;
 }
 
+.input-box input {
+  flex: 1;
+  margin-right: 20px;
+  padding: 14px 20px;
+  border: 2px solid hotpink;
+  font-size: 18px;
+  border-radius: 6px;
+  position: relative;
+  background: antiquewhite;
+}
+
+.input-box button {
+  font-size: 16px;
+  background: hotpink;
+  border: 0;
+  outline: 0;
+  padding: 17px 15px;
+  border-radius: 50px;
+  font-weight: 500;
+  color: antiquewhite;
+  cursor: pointer;
+}
+
 
 .calculator h1 {
   font-size: 60px;
