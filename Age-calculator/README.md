@@ -28,3 +28,6 @@ calculates their exact age in years, months, and days. The age is calculated bas
 ## Notes
 * The maximum selectable date is set to the current date to prevent future dates from being selected.
 * Ensure that the JavaScript file path in the index.html is correct and matches the file structure.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
