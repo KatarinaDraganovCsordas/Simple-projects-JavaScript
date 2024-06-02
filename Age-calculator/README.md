@@ -13,3 +13,8 @@ calculates their exact age in years, months, and days. The age is calculated bas
 * HTML5
 * CSS3
 * JavaScript
+
+## Setup Instructions
+* Clone the repository or download the files.
+* Ensure the file structure is maintained as above.
+* Open age-cal.html in a web browser to use the age calculator.
