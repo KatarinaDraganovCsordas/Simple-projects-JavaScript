@@ -16,5 +16,19 @@ i {
   margin-left: 20px;
 }
 
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -200px;
+}
 
-
+.img-box {
+  width: 60%;
+  line-height: 0;
+  background-image: url(/kepek/background_change_img/background.png);
+  overflow: hidden;
+  position: relative;
+}
