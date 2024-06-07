@@ -14,3 +14,11 @@ creating a transition effect between the two images.
 ## Usage
 1. Open the background.html file in a web browser.
 2. Move your mouse over the image to see the background change effect in action.
+
+## Customization
+* Images: Replace transparent.png, original.jpg, and arrow.png with your own images. Update the paths in the HTML file if necessary.
+* Styles: Customize the look and feel by editing the background.css file.
+* JavaScript: Modify the background.js file to adjust the interactivity and behavior of the effect.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
