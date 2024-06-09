@@ -41,3 +41,26 @@ form .display {
   justify-content: flex-end;
   margin: 20px 0;
 }
+
+form .display input {
+  text-align: right;
+  flex: 1;
+  font-size: 90px;
+  box-shadow: none;
+  border: 2px solid rgb(131, 130, 130);
+  background-color: rgb(62, 61, 59);
+  color: rgb(42, 246, 5);
+  padding: 35px 5px;
+}
+
+form input.equal {
+  width: 145px;
+}
+
+form input.operator1 {
+  color: rgb(238, 5, 5);
+}
+
+form input.operator {
+  color: rgb(39, 5, 189);
+}
