@@ -22,3 +22,22 @@
   border: 2px solid rgb(153, 149, 149);
 }
 
+.calculator form input {
+  border: 0;
+  outline: 0;
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px rgb(82, 81, 81);
+  background: rgb(170, 168, 168);
+  margin: 8px;
+  font-size: 59px;
+  color: rgb(33, 33, 33);
+  cursor: pointer;
+}
+
+form .display {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px 0;
+}
