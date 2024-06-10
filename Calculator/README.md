@@ -18,3 +18,11 @@ Once you have opened the calculator.html file in your browser, you can use the c
 * .: Adds a decimal point.
 * /, *, -, +: Adds the corresponding operator to the display.
 * =: Evaluates the expression shown in the display.
+
+## Code Structure
+* HTML: The structure of the calculator is defined in calculator.html.
+* CSS: The styling is done in calculator.css. It uses a custom font from `Google Fonts`.
+* JavaScript: Basic logic for updating the display and evaluating expressions is included within the onclick attributes of the buttons in the HTML file.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
