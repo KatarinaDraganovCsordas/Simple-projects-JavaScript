@@ -9,3 +9,12 @@ basic arithmetic operations and a clean, responsive design.
 * Delete button (DE) to remove the last character from the display
 * Real-time display update
 * Styled using CSS for a modern look and feel
+
+## Usage
+Once you have opened the calculator.html file in your browser, you can use the calculator by clicking on the buttons to input numbers and perform operations.
+
+* AC: Clears the display.
+* DE: Deletes the last character from the display.
+* .: Adds a decimal point.
+* /, *, -, +: Adds the corresponding operator to the display.
+* =: Evaluates the expression shown in the display.
