@@ -3,6 +3,10 @@ const date = document.getElementById("date");
       const month = document.getElementById("month");
       const year = document.getElementById("year");
 
+      const today = new Date();
 
-     
+      const weekDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+      const allMonths = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+    
       
