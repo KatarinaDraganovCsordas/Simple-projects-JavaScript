@@ -15,3 +15,6 @@ The project consists of the following files:
 * Fonts and Icons: The project uses Google Fonts (Quicksand) and Font Awesome icons. You can customize the fonts and icons by modifying the links in the <head> section of the calendar.html file.
 * Styling: You can modify the appearance of the calendar by editing the calendar.css file.
 * Date Format: The date format can be customized by changing the JavaScript logic in calendar.js.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
