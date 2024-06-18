@@ -12,3 +12,5 @@ The progress bar fills up to 65% and displays the progress percentage inside the
 * CSS
 * JavaScript
 
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
