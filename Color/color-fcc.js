@@ -16,3 +16,10 @@ function getRandomIndex() {
   return randomIndex;
 }
 
+
+function changeBackgroundColor() {
+  const color = darkColorsArr[getRandomIndex()];
+
+  bgHexCodeSpanElement.innerText = color;
+  body.style.backgroundColor = color;
+}
