@@ -32,4 +32,22 @@ p {
   border-radius: 30px;
 }
 
+.bg-information-container {
+  margin: 15px 0 25px;
+  font-size: 1.2rem;
+}
 
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  color: rgb(119, 15, 81);
+  background-color: black;
+  background-image: linear-gradient(#4cfef2, #ff33cf);
+  border-color: rgb(213, 46, 207);
+  border-width: 2px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#ff33cf, #4cfef2);
+}
