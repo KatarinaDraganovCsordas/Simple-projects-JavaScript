@@ -32,5 +32,9 @@ webpage by clicking a button. There are two modes available:
 2. Click the "CLICK ME" button to change the background color to a randomly generated hex color code.
 3. The background color and its corresponding hex code will be displayed.
 
+
+# Random Background Color Changer (freeCodeCamp)
+This project is a simple web application that changes the background color of the webpage to a random dark color from a predefined list each time a button is clicked. The hex code of the current background color is displayed on the page.
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
