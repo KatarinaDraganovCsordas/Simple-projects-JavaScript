@@ -36,5 +36,10 @@ webpage by clicking a button. There are two modes available:
 # Random Background Color Changer (freeCodeCamp)
 This project is a simple web application that changes the background color of the webpage to a random dark color from a predefined list each time a button is clicked. The hex code of the current background color is displayed on the page.
 
+## Usage
+1. Open color-fcc.html in your preferred web browser.
+2. Click the "Change Background Color" button.
+3. The background color of the page will change to a random dark color from the predefined list, and the corresponding hex code will be displayed on the page
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
