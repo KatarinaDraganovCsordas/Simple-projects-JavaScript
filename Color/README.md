@@ -39,7 +39,13 @@ This project is a simple web application that changes the background color of th
 ## Usage
 1. Open color-fcc.html in your preferred web browser.
 2. Click the "Change Background Color" button.
-3. The background color of the page will change to a random dark color from the predefined list, and the corresponding hex code will be displayed on the page
+3. The background color of the page will change to a random dark color from the predefined list, and the corresponding hex code will be displayed on the page.
+
+## Project Structure
+The project consists of the following files:
+* color-fcc.html: The main HTML file that sets up the structure of the webpage.
+* color-fcc.css: The CSS file that contains styles for the webpage.
+* color-fcc.js: The JavaScript file that contains the logic for changing the background color
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
