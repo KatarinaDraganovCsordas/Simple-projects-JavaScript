@@ -7,3 +7,8 @@ and JavaScript. Users can drag list items from one container and drop them into 
 * Drag and drop items between two containers.
 * Responsive design using a viewport meta tag.
 * Custom fonts from Google Fonts.
+
+## Technologies Used
+* HTML - drag-drop.html
+* CSS - drag-drop.css
+* JavaScript - drag-drop.js
