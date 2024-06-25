@@ -12,3 +12,10 @@ and JavaScript. Users can drag list items from one container and drop them into 
 * HTML - drag-drop.html
 * CSS - drag-drop.css
 * JavaScript - drag-drop.js
+
+## Usage
+* Open the drag-drop.html file in your browser.
+* Drag any list item from the left container.
+* Drop the list item into the right container.
+* You can also drag items back to the left container.
+
