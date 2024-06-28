@@ -28,5 +28,17 @@ body {
   margin: 10px 0 50px;
 }
 
+form {
+  background: whitesmoke;
+  display: flex;
+  width: fit-content;
+}
 
-
+form input {
+  border: 0;
+  outline: none;
+  padding: 10px 20px;
+  height: 50px;
+  width: 400px;
+  font-size: 16px;
+}
