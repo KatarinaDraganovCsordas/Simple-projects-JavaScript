@@ -42,3 +42,18 @@ form input {
   width: 400px;
   font-size: 16px;
 }
+
+form button {
+  background: #61b;
+  border: none;
+  outline: none;
+  height: 70px;
+  width: 100px;
+  cursor: pointer;
+}
+
+span {
+  color: #61b;
+  margin-top: 10px;
+  display: block;
+}
