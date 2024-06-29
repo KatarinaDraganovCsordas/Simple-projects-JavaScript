@@ -15,3 +15,6 @@ which are then stored in a Google Sheet using Google Apps Script.
 * Enter an email address in the subscription form.
 * Click the submit button.
 * The email address will be sent to the Google Sheet, and a thank you message will be displayed.
+
+## Contributing
+If you want to contribute to this project, please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
