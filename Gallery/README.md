@@ -6,7 +6,7 @@ CSS and JavaScript. The user can scroll through the gallery using the mouse whee
 * Scroll with Mouse Wheel: Use the mouse wheel to scroll through the gallery images.
 * Navigation Buttons: Click the back and next buttons to scroll smoothly to the previous or next set of images.
 
-# Fonts and Images
+## Fonts and Images
 * Fonts: The project uses the Quicksand font family from Google Fonts.
 * Images: The images are located in the kepek directory. Ensure that you have the following images in that directory:
 back.png
