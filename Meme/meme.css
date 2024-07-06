@@ -1,0 +1,15 @@
+body {
+  background-color: whitesmoke;
+}
+
+.meme-generator {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+.meme-generator img {
+  height: 430px;
+  object-fit: cover;
+}
+
+
