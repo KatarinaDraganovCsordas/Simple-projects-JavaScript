@@ -7,6 +7,15 @@ body {
   font-family: "Quicksand", sans-serif;
 }
 
+.meme-generator img {
+  height: 430px;
+  object-fit: cover;
+}
+
+.meme-title {
+  font-size: 30px;
+  text-shadow: 2px 2px 2px #f81313;
+}
 
 .meme-generator .generate-meme-btn {
   padding: 8px 20px;
@@ -21,3 +30,13 @@ body {
   transition: all 400ms ease;
 }
 
+.meme-generator .generate-meme-btn:hover {
+  padding: 8px 36px;
+  border-left: 8px solid #222;
+  border-right: 8px solid #222;
+  letter-spacing: 3px;
+}
+
+.meme-generator .meme-author {
+  margin: 8px;
+}
