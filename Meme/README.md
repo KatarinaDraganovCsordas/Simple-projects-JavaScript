@@ -15,3 +15,6 @@ This CSS file contains the styles for the Meme Generator web application.
 
 * meme.js
 This JavaScript file contains the logic to fetch memes from the API and update the DOM elements with the meme data.
+
+Contributing
+If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
