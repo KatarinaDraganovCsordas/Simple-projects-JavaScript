@@ -8,19 +8,31 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles/music-player.css">
+    <link rel="stylesheet" href="styles/music-player-2.css">
     <script src="https://kit.fontawesome.com/0ac30c32f5.js" crossorigin="anonymous"></script>
   </head>
 
   <body>
     <div class="container">
       <div class="music-player">
-       
+        <nav>
+          <div class="circle">
+            <i class="fa-solid fa-angle-left"></i>
+          </div>
+          <div class="circle">
+            <i class="fa-solid fa-bars"></i>
+          </div>
+        </nav>
         <img src="kepek/468-thumbnail.png" class="song-img">
         <h1>No Rest Or Endless Rest</h1>
         <p>Lisofv</p>
 
-       
+        <audio id="song">
+          <source src="kepek/No_Rest_Or_Endless_Rest_-_Lisofv.mp3" type="audio/mpeg">
+        </audio>
+
+        <input type="range" value="0" id="progress">
+
         <div class="controls">
           <div><i class="fa-solid fa-backward"></i></div>
           <div onclick="playPause()"><i class="fa-solid fa-play" id="ctrlIcon"></i></div>
@@ -29,6 +41,6 @@
       </div>
     </div>
 
-    <script src="scripts/music-player.js"></script>
+    <script src="scripts/music-player-2.js"></script>
   </body>
 </html>
