@@ -8,12 +8,9 @@ function showNotes() {
 }
 showNotes();
 
-
 function updateStorage() {
   localStorage.setItem("notesss", notesContainer.innerHTML);
 }
-
-
 
 createBtn.addEventListener("click", ()=>{
   let inputBox = document.createElement("p");
@@ -24,7 +21,6 @@ createBtn.addEventListener("click", ()=>{
   img.src = "kepek/delete.png";
   notesContainer.appendChild(inputBox).appendChild(img);
 })
-
 
 notesContainer.addEventListener("click", function(e){
   if(e.target.tagName === "IMG") {
@@ -42,9 +38,9 @@ notesContainer.addEventListener("click", function(e){
   }
 })
 
-
-
-
-
-
-
+document.addEventListener("keydown", event => {
+  if(event.key === "Enter") {
+    document.execCommand("insertLineBreak");
+    event.preventDefault();
+  }
+})
