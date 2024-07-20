@@ -7,3 +7,9 @@ are saved to the browser's local storage so that they persist even after the pag
 * Edit Notes: Edit notes directly within the app.
 * Delete Notes: Remove notes by clicking the delete icon.
 * Persistent Storage: Notes are saved in the browser's local storage and persist across sessions.
+
+## Usage
+1. Open notes.html in your web browser.
+2. Click the "Create notes" button to add a new note.
+3. Edit the note by clicking on it and typing your content.
+4. Delete the note by clicking the delete icon.
