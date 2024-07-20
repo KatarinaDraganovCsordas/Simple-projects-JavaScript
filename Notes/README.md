@@ -13,3 +13,6 @@ are saved to the browser's local storage so that they persist even after the pag
 2. Click the "Create notes" button to add a new note.
 3. Edit the note by clicking on it and typing your content.
 4. Delete the note by clicking the delete icon.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
