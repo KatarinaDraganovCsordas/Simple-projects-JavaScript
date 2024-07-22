@@ -10,5 +10,10 @@ var pass = document.getElementById("password");
         }
 
 
-       
+        if(pass.value.length < 4) {
+          str.innerHTML = "weak";
+          pass.style.borderColor = "red";
+          msg.style.color = "red";
+
+        } 
       })
