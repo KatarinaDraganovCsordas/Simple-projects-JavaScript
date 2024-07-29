@@ -1,4 +1,4 @@
-# Password Strength Indicator
+# 1. Password Strength Indicator
 This project is a simple web-based password strength indicator. It provides real-time feedback on 
 the strength of a user's password as they type it. The password strength is categorized into 
 three levels: weak, medium, and strong.
@@ -11,3 +11,6 @@ Open the password.html file in your web browser to see the password strength ind
 * password.css: The CSS file that styles the web page.
 * password.js: The JavaScript file that contains the logic for evaluating password strength.
 * img - kepek/send-icon.png: The image used for the submit button icon.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any changes or enhancements.
