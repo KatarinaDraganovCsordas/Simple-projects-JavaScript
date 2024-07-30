@@ -19,5 +19,10 @@ This project demonstrates a simple password input field with a toggle feature to
 * Password Visibility Toggle: Users can toggle the visibility of their password by clicking an eye icon.
 * Responsive Design: The input field and functionality are responsive and work well on different screen sizes.
 
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any changes or enhancements.
