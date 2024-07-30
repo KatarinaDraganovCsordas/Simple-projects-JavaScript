@@ -12,5 +12,12 @@ Open the password.html file in your web browser to see the password strength ind
 * password.js: The JavaScript file that contains the logic for evaluating password strength.
 * img - kepek/send-icon.png: The image used for the submit button icon.
 
+# 2. Password Toggle Feature
+This project demonstrates a simple password input field with a toggle feature to show or hide the password. The toggle functionality is implemented using HTML, CSS, and JavaScript.
+
+## Features
+* Password Visibility Toggle: Users can toggle the visibility of their password by clicking an eye icon.
+* Responsive Design: The input field and functionality are responsive and work well on different screen sizes.
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any changes or enhancements.
