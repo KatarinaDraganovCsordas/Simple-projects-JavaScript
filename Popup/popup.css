@@ -13,3 +13,32 @@
   align-items: center;
   justify-content: center;
 }
+
+.btn {
+  padding: 10px 60px;
+  background: #57f73e;
+  box-shadow: 0px 3px 4px rgb(3, 136, 3);
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 30px;
+}
+
+.popup {
+  border: 2px solid rgb(46, 42, 252);
+  width: 400px;
+  background: rgb(171, 246, 231);
+  border-radius: 6px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.1);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: rgb(46, 42, 252);
+  visibility: hidden;
+  transition: transform 0.4s, top 0.4s;
+}
