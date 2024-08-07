@@ -7,3 +7,6 @@ user submits a form. The popup confirms the submission with a thank you message.
 * Popup confirmation message upon form submission
 * Smooth transition effects
 * Customizable styles and content
+
+## Usage
+To use the popup submission form, simply open the popup.html file in your web browser. When you click the "Submit" button, a popup will appear with a thank you message.
