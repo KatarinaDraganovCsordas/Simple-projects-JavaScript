@@ -15,3 +15,6 @@ To use the popup submission form, simply open the popup.html file in your web br
 * popup.html - The main HTML file containing the form and popup structure.
 * popup.css - The CSS file for styling the form and popup.
 * popup.js - The JavaScript file for handling the popup functionality.
+
+## Contributing
+Contributions are welcome!
