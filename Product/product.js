@@ -17,12 +17,10 @@ btn[1].onclick = function() {
   this.classList.add("active");
 }
 
-
-      btn[2].onclick = function() {
-        productImg.src = "kepek/product-img/image3.png";
-
-        for(bt of btn) {
-          bt.classList.remove("active");
-        }
-        this.classList.add("active");
-      }
+btn[2].onclick = function() {
+  productImg.src = "kepek/product-img/image3.png";
+  for(bt of btn) {
+    bt.classList.remove("active");
+  }
+  this.classList.add("active");
+}
