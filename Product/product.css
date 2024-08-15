@@ -13,6 +13,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .product {
   width: 90%;
   max-width: 750px;
@@ -44,3 +45,18 @@
   color: #777;
 }
 
+.details h1 {
+  color: #333;
+  font-size: 35px;
+}
+
+.details h2 {
+  color: #555;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.details h3 {
+  color: rgb(14, 175, 14);
+  margin-bottom: 20px;
+}
