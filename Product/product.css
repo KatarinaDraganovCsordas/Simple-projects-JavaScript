@@ -14,10 +14,6 @@
   justify-content: center;
 }
 
-
-.size-select input {
-  display: none;
-}
 .product {
   width: 90%;
   max-width: 750px;
@@ -83,4 +79,14 @@
 .size-select input:checked + span {
   color: blue;
   font-weight: 600;
+}
+
+.size-select input {
+  display: none;
+}
+
+.size-select span {
+  padding: 5px;
+  margin-right: 10px;
+  cursor: pointer;
 }
