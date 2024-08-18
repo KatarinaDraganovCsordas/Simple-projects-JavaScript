@@ -96,3 +96,7 @@
   align-items: center;
   margin-top: 20px;
 }
+
+.color-select p {
+  width: 75px;
+}
