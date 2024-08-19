@@ -115,6 +115,9 @@
 .color-3 {background: blue;}
 .color-4 {background: hotpink;}
 
+.color-select input {
+  display: none;
+}
 
 .color-select input:checked + span {
   transform: scale(0.7);
