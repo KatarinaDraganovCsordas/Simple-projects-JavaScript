@@ -131,5 +131,13 @@
 }
 
 .quantity-select p {
-  width: 75px;
+  width: 75px;}
+
+.quantity-select input {
+  background: #eee;
+  border: 0;
+  outline: 0;
+  padding: 2px 2px 2px 15px;
+  width: 50px;
+  border-radius: 2px;
 }
