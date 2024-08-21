@@ -129,3 +129,7 @@
   align-items: center;
   margin-top: 20px;
 }
+
+.quantity-select p {
+  width: 75px;
+}
