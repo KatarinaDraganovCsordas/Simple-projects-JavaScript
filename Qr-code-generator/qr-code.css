@@ -27,3 +27,9 @@ body {
   margin-bottom: 8px;
   color: rgb(48, 1, 44);
 }
+
+.sp {
+  color: rgb(70, 3, 85);
+  font-weight: bold;
+  display: inline-block;
+}
