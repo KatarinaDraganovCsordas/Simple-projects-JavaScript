@@ -42,3 +42,7 @@ body {
     transform: scale(1.2);
   }
 }
+
+.sp:hover {
+  animation: zoomInAndOut 2s;
+}
