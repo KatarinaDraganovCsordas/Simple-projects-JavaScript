@@ -71,3 +71,12 @@ body {
   margin: 20px 0;
   font-weight: 500;
 }
+
+#imgBox {
+  width: 200px;
+  border-radius: 1px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 1s;
+  box-shadow: 3px 3px 5px rgb(79, 2, 117);
+}
