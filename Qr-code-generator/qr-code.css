@@ -80,3 +80,8 @@ body {
   transition: max-height 1s;
   box-shadow: 3px 3px 5px rgb(79, 2, 117);
 }
+
+#imgBox img {
+  width: 100%;
+  padding: 10px;
+}
