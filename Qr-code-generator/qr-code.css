@@ -91,3 +91,7 @@ body {
   margin: 10px auto;
   border: 2px solid rgb(48, 1, 44);
 }
+
+.error {
+  animation: shake 0.1s linear 10;
+}
