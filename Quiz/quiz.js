@@ -110,3 +110,11 @@ function handleNextButton() {
     showScore();
   }
 }
+
+nextButton.addEventListener("click", ()=>{
+  if(currentQuestionIndex < questions.length) {
+    handleNextButton();
+  } else {
+    startQuiz();
+  }
+})
