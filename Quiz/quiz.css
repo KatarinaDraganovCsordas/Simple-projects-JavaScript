@@ -59,3 +59,17 @@ body {
 .btn:disabled {
   cursor: no-drop;
 }
+
+#next-btn {
+  font-size: 16px;
+  background:rgba(249, 155, 188, 0.995);
+  color: rgb(127, 5, 46);
+  font-weight: 500;
+  width: 150px;
+  border: 1px solid rgb(127, 5, 46);
+  padding: 10px;
+  margin: 20px auto 0;
+  border-radius: 4px;
+  cursor: pointer;
+  display: none;
+}
