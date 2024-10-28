@@ -73,3 +73,13 @@ body {
   cursor: pointer;
   display: none;
 }
+
+.correct {
+  background: rgb(3, 135, 3);
+  color: antiquewhite;
+}
+
+.incorrect {
+  background: rgb(243, 6, 6);
+  color: antiquewhite;
+}
