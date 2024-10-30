@@ -31,7 +31,7 @@ The questions and answers are stored in a JavaScript array of objects, where eac
 
 * handleNextButton(): Advances to the next question or displays the final score if all questions have been answered.
 
-3. Event Listeners
+3. Event Listeners -
    The Next button triggers handleNextButton() to move to the next question or restart the quiz.
 
 ## Usage
