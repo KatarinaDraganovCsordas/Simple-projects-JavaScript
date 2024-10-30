@@ -30,3 +30,6 @@ The questions and answers are stored in a JavaScript array of objects, where eac
 * showScore(): Displays the final score after the last question and changes the "Next" button text to "Play Again."
 
 * handleNextButton(): Advances to the next question or displays the final score if all questions have been answered.
+
+3. Event Listeners
+The Next button triggers handleNextButton() to move to the next question or restart the quiz.
