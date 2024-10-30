@@ -17,3 +17,16 @@ The questions and answers are stored in a JavaScript array of objects, where eac
 * answers: an array of answer objects, each with:
 * text: the answer choice text
 * correct: a boolean indicating if the answer is correct
+
+2. Main Functions
+* startQuiz(): Initializes the quiz by resetting the current question index and score, updating the button text, and calling showQuestion() to load the first question.
+
+* showQuestion(): Renders the current question and answer choices. Each answer choice is displayed as a button, with an event listener attached to handle answer selection.
+
+* resetState(): Clears previous question elements and hides the "Next" button.
+
+* selectAnswer(e): Handles the answer selection logic. It checks if the selected answer is correct, highlights the correct answer, and enables the "Next" button.
+
+* showScore(): Displays the final score after the last question and changes the "Next" button text to "Play Again."
+
+* handleNextButton(): Advances to the next question or displays the final score if all questions have been answered.
