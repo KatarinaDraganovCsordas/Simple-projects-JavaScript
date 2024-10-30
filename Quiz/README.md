@@ -32,4 +32,15 @@ The questions and answers are stored in a JavaScript array of objects, where eac
 * handleNextButton(): Advances to the next question or displays the final score if all questions have been answered.
 
 3. Event Listeners
-The Next button triggers handleNextButton() to move to the next question or restart the quiz.
+   The Next button triggers handleNextButton() to move to the next question or restart the quiz.
+
+## Usage
+1. Open the HTML file that contains this JavaScript code in a web browser.
+2. The quiz will start automatically with the first question displayed.
+3. Select an answer to see if it is correct.
+4. Click "Next" to proceed to the following question.
+5. At the end of the quiz, the total score will be shown.
+6. Click "Play Again" to restart the quiz.
+
+## Customization
+You can modify or add questions in the questions array to change the quiz content. To add a new question, insert a new object in the questions array following the existing structure.
