@@ -44,3 +44,6 @@ The questions and answers are stored in a JavaScript array of objects, where eac
 
 ## Customization
 You can modify or add questions in the questions array to change the quiz content. To add a new question, insert a new object in the questions array following the existing structure.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
