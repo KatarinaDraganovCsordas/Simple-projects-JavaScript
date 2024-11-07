@@ -9,3 +9,9 @@ product image based on user input.
 * Dynamic Size and Color Selection: Users can select the product size and color using radio buttons.
 * Quantity Selection: Users can specify the quantity they want to purchase.
 * JavaScript Interaction: The gallery feature is interactive, updating the main product image when different buttons are clicked.
+
+## Structure
+The page has a layout divided into:
+
+* Gallery Section: Contains the main product image with controls to switch images.
+* Details Section: Contains product details (price, discount), size and color options, and a quantity input with a "Buy now" button.
