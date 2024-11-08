@@ -21,6 +21,10 @@ The page has a layout divided into:
 * A basic web server or a browser to view HTML files.
 - Steps
 1. Clone or download the repository.
-2. Open index.html in a web browser.
+2. Open product.html in a web browser.
    
-
+## Usage
+1. Open the HTML file in a browser.
+2. Click on the buttons under the main image to switch between different product images.
+3. Select the desired size and color using the radio buttons.
+4. Enter the desired quantity and click "Buy now" to simulate a purchase action.
