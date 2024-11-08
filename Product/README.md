@@ -15,3 +15,12 @@ The page has a layout divided into:
 
 * Gallery Section: Contains the main product image with controls to switch images.
 * Details Section: Contains product details (price, discount), size and color options, and a quantity input with a "Buy now" button.
+
+## Setup
+- Prerequisites
+* A basic web server or a browser to view HTML files.
+- Steps
+1. Clone or download the repository.
+2. Open index.html in a web browser.
+   
+
