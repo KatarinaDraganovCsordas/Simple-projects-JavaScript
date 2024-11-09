@@ -28,3 +28,10 @@ The page has a layout divided into:
 2. Click on the buttons under the main image to switch between different product images.
 3. Select the desired size and color using the radio buttons.
 4. Enter the desired quantity and click "Buy now" to simulate a purchase action.
+
+## Technologies
+* HTML: For structure and layout.
+* CSS: For styling and responsive design.
+* JavaScript: For interactive elements like image switching.
+* FontAwesome: For icons.
+* Google Fonts: To import the Quicksand font.
