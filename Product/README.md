@@ -35,3 +35,8 @@ The page has a layout divided into:
 * JavaScript: For interactive elements like image switching.
 * FontAwesome: For icons.
 * Google Fonts: To import the Quicksand font.
+
+## File Descriptions
+* product.html: The main HTML file containing the structure of the product page.
+* styles/product.css: The CSS file that styles the page, making it responsive and visually appealing.
+* scripts/product.js: JavaScript file (if further separated) to handle interactions like updating the main image in the gallery when different controls are clicked.
