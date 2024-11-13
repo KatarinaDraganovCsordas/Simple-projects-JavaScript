@@ -44,3 +44,5 @@ The page has a layout divided into:
 ## Code Highlights
 JavaScript for Image Switching
 In the <script> tag of the HTML file, a JavaScript function is written to handle the gallery image switching functionality. This code dynamically updates the src attribute of the productImg element based on the selected button and adds an active class for visual feedback.
+
+This readme provides an overview and guide to using the product page. For additional customization, adjust the CSS and JavaScript files as needed.
