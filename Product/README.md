@@ -40,3 +40,7 @@ The page has a layout divided into:
 * product.html: The main HTML file containing the structure of the product page.
 * styles/product.css: The CSS file that styles the page, making it responsive and visually appealing.
 * scripts/product.js: JavaScript file (if further separated) to handle interactions like updating the main image in the gallery when different controls are clicked.
+
+## Code Highlights
+JavaScript for Image Switching
+In the <script> tag of the HTML file, a JavaScript function is written to handle the gallery image switching functionality. This code dynamically updates the src attribute of the productImg element based on the selected button and adds an active class for visual feedback.
